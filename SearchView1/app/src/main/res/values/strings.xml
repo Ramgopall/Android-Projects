@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SearchView1</string>
+    <string-array name="array_country">
+        <item> India</item>
+        <item>USA</item>
+        <item>Austrailiya</item>
+        <item>Japan</item>
+    </string-array>
+</resources>

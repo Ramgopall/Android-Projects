@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "633445903620",
+    "firebase_url": "https://fcmtest-f85ac.firebaseio.com",
+    "project_id": "fcmtest-f85ac",
+    "storage_bucket": "fcmtest-f85ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633445903620:android:2e09a1ee06efccf7",
+        "android_client_info": {
+          "package_name": "com.example.amit.fcmpushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633445903620-hkrtj9ct715akssg8iirj0dpghlrqem2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8ZrYcLqCh8MB5KQU0nxTMY1XhuxLbM-M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

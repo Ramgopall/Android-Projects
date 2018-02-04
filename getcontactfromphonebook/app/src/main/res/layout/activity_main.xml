@@ -1,0 +1,29 @@
+<LinearLayout android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="name"
+        android:id="@+id/tv1"
+        android:layout_margin="20dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="NUMBER"
+        android:id="@+id/tv2"
+        android:layout_margin="20dp"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="get contact"
+        android:id="@+id/b1"
+        android:layout_marginTop="20dp"
+
+
+        />
+</LinearLayout>

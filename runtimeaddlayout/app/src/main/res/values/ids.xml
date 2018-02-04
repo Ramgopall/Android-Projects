@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rb2" type="id">rb2</item>
+    <item name="rb1" type="id">rb1</item>
+    <item name="rg" type="id">rg</item>
+    <item name="tv" type="id" />
+    <item name="rb" type="id" />
+    <item name="rbb" type="id" />
+</resources>
